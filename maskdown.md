@@ -86,7 +86,7 @@ Hovedstaten i Norge er Oslo.[^1]
 Inbyggertallet i Oslo er omtrent 5,6 millioner mennesker [^2]
 
 [^1]: Kong Håkon V gjorde Oslo til landets politiske sentrum, fordi han var den første kongen som bodde permanent i byen.
-[^2]: Fordi oslo er hovedstaten. der er det som oftest flest folk.
+[^2]: Siden Oslo er hovedstaten. der er det som oftest flest folk.
 
 ## GFM
 
@@ -102,5 +102,28 @@ https://youtube.com/
 
 @maskus89
 ## Egen mal
+## Om porsjektet
+Jeg har laget et prosjekt som heter ___ og handler om ____
+
+## kompetansemål
+| Kompetansemål|               |          |
+|-------------|--------------------------|-------------------------|
+|             |                |          |
+|             |                |          |
+|             |                |          |
+
+## Kom i gang
+1. klon repo
+```
+klon repoen: ~~legg inn githubrepo her~~
+```
+2. last ned pakker
+```
+npm install
+```
+3. lisens
+```
+Legg lisens her
+```
 
 
