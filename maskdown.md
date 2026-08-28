@@ -108,9 +108,9 @@ Jeg har laget et prosjekt som heter ___ og handler om ____
 ## kompetansemål
 | Kompetansemål|               |          |
 |-------------|--------------------------|-------------------------|
-|             |                |          |
-|             |                |          |
-|             |                |          |
+|Utvikle en side |                |          |
+|Ryddig          |                |          |
+|Relevant info   |                |          |
 
 ## Kom i gang
 1. klon repo
@@ -126,4 +126,7 @@ npm install
 Legg lisens her
 ```
 
+## kildekritikk
+Jeg har sett på [ai/size-limit](https://github.com/ai/size-limit) og [Shallow-backup](https://github.com/alichtman/shallow-backup)
 
+README-en til size-limit er god fordi den har en tydelig beskrivelse, bilde og enkle instruksjoner for installasjon. shallow-backup er også god fordi den forklarer hva prosjektet gjør, har en GIF som viser programmet, og har en oversiktlig innholdsfortegnelse. Det gjør det lettere for brukeren å forstå prosjektet og komme raskt i gang. Jeg synes likevel at mye grafikk og badges kan gjøre en README litt rotete. Jeg ville selv hatt en kort introduksjon først, deretter installasjon og noen enkle kodeeksempler.
