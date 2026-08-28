@@ -85,4 +85,25 @@ Dette er en advarsel.
 > [!CAUTION]
 > Vær forsiktig med dette.
 
+## Kollapsbar seksjon
+<details>
+<summary>Vis svar</summary>
 
+Brødpose
+
+</details>
+
+## Badges
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+## Fotnoter
+
+Hovedstaten i Norge er Oslo.[^1]
+
+Inbyggertallet i Oslo er omtrent 5,6 millioner mennesker [^2]
+
+[^1]: Kong Håkon V gjorde Oslo til landets politiske sentrum, fordi han var den første kongen som bodde permanent i byen.
+[^2]: Siden Oslo er hovedstaten. der er det som oftest flest folk.
+
+~~Chillern~~ med å bruke to "~" på hver side av ordet
